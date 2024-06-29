@@ -1,0 +1,13 @@
+Age_range,Smoker,Marital_status,Shortness_of_breath on_exertion,Wheezing,Phlegm,Inhaler_usage,COPD
+41_to_60,no,married,yes,yes,no,yes,no
+61_or_more,yes,married,yes,yes,yes,yes,yes
+40_or_less,no,single,no,yes,yes,no,no
+61_or_more,yes,married,yes,yes,yes,yes,yes
+41_to_60,yes,single,no,no,yes,no,no
+41_to_60,yes,married,no,yes,yes,no,no
+61_or_more,yes,married,yes,yes,no,no,yes
+41_to_60,yes,married,yes,no,no,no,no
+61_or_more,no,married,no,yes,no,no,no
+41_to_60,no,married,no,no,yes,no,no
+61_or_more,yes,married,yes,yes,no,yes,yes
+40_or_less,yes,married,no,yes,yes,no,no
